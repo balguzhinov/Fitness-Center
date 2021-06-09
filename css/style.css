@@ -22,7 +22,7 @@ body {
   line-height: 1.7;
   font-weight: 300;
   font-size: 1.1rem;
-  color: #989898; }
+  color: #000000; }
 
 ::-moz-selection {
   background: #000;
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5,
     .site-footer {
       padding: 8em 0; } }
   .site-footer p {
-    color: #737373; }
+    color: #000000; }
   .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
     color: #fff; }
   .site-footer a {
@@ -792,7 +792,7 @@ h1, h2, h3, h4, h5,
     font-size: 20px;
     font-weight: bold; }
   .ftco-feature-1 p {
-    color: #989898; }
+    color: #000000; }
   .ftco-feature-1:hover, .ftco-feature-1.active {
     -webkit-box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.1); }
@@ -819,7 +819,7 @@ h1, h2, h3, h4, h5,
       background: #f23a2e; }
 
 .section-heading .subheading {
-  color: #ababab;
+  color: #000000;
   font-size: 1.2rem; }
 
 .section-heading .heading {
@@ -853,7 +853,7 @@ h1, h2, h3, h4, h5,
     .class-item .class-item-text h2 a {
       color: #000; }
   .class-item .class-item-text p, .class-item .class-item-text span {
-    color: #aeaeae; }
+    color: #000000; }
   .class-item .class-item-text span {
     font-size: 16px; }
   .class-item:hover {
@@ -865,7 +865,7 @@ h1, h2, h3, h4, h5,
     .class-item:hover h2 a {
       color: #fff; }
     .class-item:hover p, .class-item:hover span {
-      color: #ff7c67; }
+      color: #ffffff; }
 
 .days {
   width: 100%;
@@ -921,12 +921,13 @@ h1, h2, h3, h4, h5,
 .footer-section {
   padding: 7em 0; }
   .footer-section p {
+    color: #000000;
     font-size: 1rem; }
   .footer-section h3 {
     font-size: .9rem;
     letter-spacing: .1rem;
     text-transform: uppercase;
-    color: #fff;
+    color: #000000;
     margin-bottom: 1.5rem;
     font-weight: 900; }
   .footer-section .footer-links li {
@@ -938,7 +939,7 @@ h1, h2, h3, h4, h5,
   margin-bottom: 30px; }
 
 .person .position {
-  color: #ccc;
+  color: #000000;
   margin-bottom: 20px;
   text-transform: uppercase;
   font-size: 13px;
@@ -949,7 +950,9 @@ h1, h2, h3, h4, h5,
   font-weight: bold; }
 
 .person p {
-  font-size: 15px; }
+  font-size: 15px; 
+  color: #000000;
+}
 
 #contact-section .form-control {
   background: #fff; }
